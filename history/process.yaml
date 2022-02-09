@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03ECAL-MJ03E-06-BOTPTA302-streamed-botpt_iris_sample
 data_stream: RS03ECAL-MJ03E-06-BOTPTA302-streamed-botpt_iris_sample
 end_date: '2022-02-07T17:47:23.000Z'
-last_updated: '2022-02-09T05:54:24.658808Z'
+last_updated: '2022-02-09T06:24:45.961563'
 start_date: '2014-09-03T21:00:01.000Z'
-status: pending
+status: success
